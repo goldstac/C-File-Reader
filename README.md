@@ -16,3 +16,19 @@ int main() {
   return 0;
 }
 ```
+## To Run
+## In Linux
+### Use build.sh
+```bash
+chmod +x build.sh
+./build.sh
+```
+### Or Just Type
+```bash
+gcc -o main main.c
+```
+## In Windows
+### Also Same
+```bash
+gcc -o main main.c
+```
